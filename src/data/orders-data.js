@@ -10,7 +10,7 @@ module.exports = [
         name: "Falafel and tahini bagel",
         description: "A warm bagel filled with falafel and tahini",
         image_url:
-          "https://images.pexels.com/photos/4560606/pexels-photo-4560606.jpeg?h=530&w=350",
+            "https://images.pexels.com/photos/4560606/pexels-photo-4560606.jpeg?h=530&w=350",
         price: 6,
         quantity: 1,
       },
@@ -26,9 +26,9 @@ module.exports = [
         id: "d351db2b49b69679504652ea1cf38241",
         name: "Dolcelatte and chickpea spaghetti",
         description:
-          "Spaghetti topped with a blend of dolcelatte and fresh chickpeas",
+            "Spaghetti topped with a blend of dolcelatte and fresh chickpeas",
         image_url:
-          "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?h=530&w=350",
+            "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?h=530&w=350",
         price: 19,
         quantity: 2,
       },
